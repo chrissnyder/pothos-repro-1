@@ -1,0 +1,19 @@
+{
+  "name": "pothos-repro-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@pothos/core": "^3.33.0",
+    "@pothos/plugin-dataloader": "^3.17.1",
+    "currency.js": "^2.0.4",
+    "dataloader": "^2.2.2",
+    "graphql": "^16.8.0",
+    "graphql-yoga": "^4.0.4",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.3",
+    "ts-node": "^10.9.1"
+  }
+}
